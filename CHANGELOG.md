@@ -7,6 +7,15 @@ All notable changes to [bpmn-js](https://github.com/bpmn-io/bpmn-js) are documen
 
 ___Note:__ Yet to be released changes appear here._
 
+## [9.0.4](https://github.com/ehtick/bpmn-js/compare/v9.0.3...v9.0.4) (2023-12-11)
+
+
+### Bug Fixes
+
+* **drilldown:** create overlays on `viewer.open` ([574a674](https://github.com/ehtick/bpmn-js/commit/574a674381d6449b509396b6d17c4ca94674ea1c))
+* **drilldown:** ensure dataAssociations are drawn ([21f7ed4](https://github.com/ehtick/bpmn-js/commit/21f7ed402d25c6c0737459a86a39323642634715)), closes [#1619](https://github.com/ehtick/bpmn-js/issues/1619)
+* **ordering:** use specified parent when moving labels ([06d6f98](https://github.com/ehtick/bpmn-js/commit/06d6f986abef307b912d648bbe1d7a18d1ce2d6e)), closes [#1617](https://github.com/ehtick/bpmn-js/issues/1617)
+
 ## 9.0.3
 
 * `FIX`: submit direct editing result on drilldown ([#1609](https://github.com/bpmn-io/bpmn-js/issues/1609))
